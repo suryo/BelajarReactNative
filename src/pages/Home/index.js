@@ -9,6 +9,7 @@ export default class Home extends Component {
             </View>
         )
     }
-}
+} 
 
 const styles = StyleSheet.create({})
+
